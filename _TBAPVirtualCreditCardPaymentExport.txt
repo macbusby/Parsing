@@ -1,0 +1,37 @@
+Vendor,LocCode,Payee,Address1,Address2,City,State,ZIP,EmailAddress,Phone,InvoiceNbr,InvoiceDate,PaymentDate,EFTRefNbr,GrossAmt,AmtPaid,DiscTkn
+4-BEAM,,"Morgan Beam","4032 Converse Drive","",Raleigh,NC,27609,mbeam@sametcorp.com,,"040116A",20160401,20160513,0000314,129.06,129.06,0.00
+4-BEAM,,"Morgan Beam","4032 Converse Drive","",Raleigh,NC,27609,mbeam@sametcorp.com,,"040116",20160401,20160513,0000314,678.88,678.88,0.00
+4-BLANK,,"Charles E. Blankinship","3809 Bon Rea Drive","",Charlotte,NC,28226,,,"042816",20160428,20160513,0000315,2421.16,2421.16,0.00
+4-BLANK,,"Charles E. Blankinship","3809 Bon Rea Drive","",Charlotte,NC,28226,,,"041816",20160418,20160506,0000299,7354.30,7354.30,0.00
+4-BOSE,,"Jeffrey Bose","5823 Cross Point Court","",Waxhaw,NC,28173,jbose@sametcorp.com,,"050716",20160507,20160513,0000316,344.21,344.21,0.00
+4-CRIS,,"Criswell, Jamie","28 Hartsfield Court","",Greensboro,NC,27407,,,"042816",20160428,20160506,0000300,45.90,45.90,0.00
+4-HALLB,,"Brian A. Hall","4544 Wayland Ct","",High Point,NC,27265,,,"050716A",20160507,20160513,0000317,828.08,828.08,0.00
+4-HALLB,,"Brian A. Hall","4544 Wayland Ct","",High Point,NC,27265,,,"050716",20160507,20160513,0000317,663.85,663.85,0.00
+4-KASS,,"Jeffrey R. Kass","201 Mcadoo Ave","Apt. 2G",Greensboro,NC,27406,,,"042716",20160427,20160506,0000301,76.31,76.31,0.00
+4-KASS,,"Jeffrey R. Kass","201 Mcadoo Ave","Apt. 2G",Greensboro,NC,27406,,,"042716A",20160427,20160506,0000301,137.20,137.20,0.00
+4-LANNIN,,"Derek Lanning","3002 Thurston Drive","",Indian Trial,NC,28079,dlanning@sametcorp.com,,"050916",20160509,20160513,0000318,59.40,59.40,0.00
+4-LANNIN,,"Derek Lanning","3002 Thurston Drive","",Indian Trial,NC,28079,dlanning@sametcorp.com,,"050916A",20160509,20160513,0000318,168.00,168.00,0.00
+4-LAPATIN,,"Michaela LaPatin","106 Avoncliff Ct","",Summerville,SC,29483,,,"050916",20160509,20160513,0000319,55.00,55.00,0.00
+4-MARS,,"Jeffrey Marshall","5504 Francisco Drive","",Greensboro,NC,27410,jmarshall@sametcorp.com,,"050616",20160506,20160513,0000320,456.30,456.30,0.00
+4-MEASE,,"David Mease","5308 Newgate Ct.","",Charlotte,NC,28226,,,"042616",20160426,20160506,0000302,145.00,145.00,0.00
+4-MEDLI,,"John C. Medlin","7231 Northmoor Trace","",Greensboro,NC,27455,,,"042916",20160429,20160506,0000303,161.91,161.91,0.00
+4-MEDLI,,"John C. Medlin","7231 Northmoor Trace","",Greensboro,NC,27455,,,"042816",20160428,20160506,0000303,337.12,337.12,0.00
+4-MOONEY,,"David Mooney","5001 Coburn Court","",Charlotte,NC,28277,dmooney@sametcorp.com,,"042616",20160426,20160506,0000304,1000.00,1000.00,0.00
+4-PANGR,,"Kevin C. Pangrazio","4036 Donahue Place","",Davidson,NC,28036,,,"042616",20160426,20160513,0000321,550.00,550.00,0.00
+4-PRICE,,"KeithB.;J r. Price","1589 Skeet Club Road, # 102","Box 313",High Point,NC,27265,,,"043016",20160430,20160506,0000305,62.10,62.10,0.00
+4-PRICE,,"KeithB.;J r. Price","1589 Skeet Club Road, # 102","Box 313",High Point,NC,27265,,,"043016A",20160430,20160506,0000305,182.15,182.15,0.00
+4-RICHT,,"Patrick Richter","1623 Cristalino Circle","",Charleston,SC,29414,,,"042116",20160421,20160506,0000306,62.66,62.66,0.00
+4-RINING,,"Angela Rininger","1920 Shillington Dr","",Winston Salem,NC,27127,,,"042816",20160428,20160506,0000307,21.41,21.41,0.00
+4-ROBER,,"Brandon M. Roberson","PO Box 25","",Ararat,NC,27007,broberson@sametcorp.com,,"040116",20160401,20160506,0000308,-47.37,-47.37,0.00
+4-ROBER,,"Brandon M. Roberson","PO Box 25","",Ararat,NC,27007,broberson@sametcorp.com,,"042816",20160428,20160506,0000308,114.24,114.24,0.00
+4-SEAWE,,"John T. Seawell","2866 Victoria Falls Drive","",Burlington,NC,27215,,,"042916",20160429,20160506,0000309,125.44,125.44,0.00
+4-SISCO,,"MitchellL Sisco","7752 Eversfield Road","",Summerfield,NC,27358,msisco@sametcorp.com,,"050916A",20160509,20160513,0000322,313.74,313.74,0.00
+4-SISCO,,"MitchellL Sisco","7752 Eversfield Road","",Summerfield,NC,27358,msisco@sametcorp.com,,"041916",20160419,20160506,0000310,163.52,163.52,0.00
+4-SISCO,,"MitchellL Sisco","7752 Eversfield Road","",Summerfield,NC,27358,msisco@sametcorp.com,,"041516",20160415,20160506,0000310,408.80,408.80,0.00
+4-SISCO,,"MitchellL Sisco","7752 Eversfield Road","",Summerfield,NC,27358,msisco@sametcorp.com,,"050916",20160509,20160513,0000322,394.74,394.74,0.00
+4-SOMAN,,"Soman, Amol","3214 Brassfield Road","Apt 4203",Greensboro,NC,27410,,,"042916",20160429,20160506,0000311,21.50,21.50,0.00
+4-SOMAN,,"Soman, Amol","3214 Brassfield Road","Apt 4203",Greensboro,NC,27410,,,"050616",20160506,20160513,0000323,49.36,49.36,0.00
+4-STATON,,"Michael Staton","3460 Redcliff Way","",Lenoir,NC,28645,,,"042616",20160426,20160506,0000312,277.20,277.20,0.00
+4-URTEC,,"Bernard Urtecho","9113 Park Grove Street","",Huntersville,NC,28078,burtecho@sametcorp.com,,"042916",20160429,20160506,0000313,112.32,112.32,0.00
+4-URTEC,,"Bernard Urtecho","9113 Park Grove Street","",Huntersville,NC,28078,burtecho@sametcorp.com,,"042916A",20160429,20160506,0000313,66.15,66.15,0.00
+4-URTEC,,"Bernard Urtecho","9113 Park Grove Street","",Huntersville,NC,28078,burtecho@sametcorp.com,,"042916C",20160429,20160506,0000313,117.18,117.18,0.00

@@ -1,0 +1,23 @@
+CSV
+11
+9
+Supplier Code
+Payment Date
+Net Amount
+Alpha  Name
+ADDRESS_LINE_1
+ADDRESS_LINE_2
+CITY
+STATE_CODE
+POSTAL_CODE
+Address  Number
+Invoice  Number
+Check/  Itm Date
+ELECTRONIC_ADDRESS_EAEMAL
+PHONE_NUMBER
+Invoice  Date
+Due  Date
+Payment Number
+Check Amount
+Gross Amount
+Discount Amount
