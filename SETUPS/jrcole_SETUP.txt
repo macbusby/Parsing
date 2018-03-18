@@ -1,0 +1,22 @@
+CSV
+15
+4
+Payment Date
+Net Amount
+Vendor ID
+Vendor Address Code - Remit To
+Vendor Name
+Address 1
+Address 2
+City
+State
+Zip Code
+Vendor Contact Email
+Phone Number 1
+Document Number
+Document Date
+Due Date
+Payment Number
+Gross Amount
+Discount Amount
+Document Type

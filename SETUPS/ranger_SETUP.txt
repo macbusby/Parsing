@@ -1,0 +1,40 @@
+XLSX
+11
+20
+Data
+Transaction Id
+Vendor Id
+Job Id
+Check Date
+Check Number
+Check Amount
+Spelled Amount
+Total Balance Paid
+Total Discount
+Total Retention
+Total Net Paid
+Check Is Total?
+Check Is Continue?
+Check Is Remittance?
+Type of check
+Check printed?
+Is this check a reversal?
+Document Type
+Payee Name
+Address #1
+Address #2
+Address #3
+Address #4
+Vendor's "Cust #" for us
+Is this a Subcontractor?
+Joint Payee
+Lien Status
+Paid Inv Date
+Paid Inv Invoice Number
+Paid Inv Remark
+Paid Inv Job Name
+Paid Inv TrackId
+Paid Inv BalPaid
+Paid Inv Discount
+Paid Inv Retention
+Paid Inv NetPaid          
