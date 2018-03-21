@@ -132,7 +132,7 @@ def main():
         overflow = contents.pop(0)
 
         '''add extra function to grab files...
-        ...from server host an rename before executing parser
+        ...from server host and rename before executing parser
         NO SPACES'''
         csvFile = "testing.csv"
         
