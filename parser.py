@@ -104,10 +104,27 @@ def txt_to_csv(comp, colNames, req, of, file, delim):
 
   
 def main():
-    company = input("Which customer? (do not use spaces/capital letters): ")
+        
+    #***HARD CODE COMPANY NAME***
+
+    #if CheckFileExample.xlsx
+    ##check setup file for file type = xlsx!!!!
+    #company = "ranger"
     
+    #if TabDelimitedCheckBatch.txt
+    ##check setup file for file type = txt!!!!
+    #company = "ranger"
+    #if CSVPaymentFile.csv
+    #company = "springs"
+
+    #if _TBAPVirtualCreditCardPaymentExport.txt
+    #company = "samet"
+
+    #if JRColeCSVFile_Final.csv
+    company = "jrcole"
+
     #get configuration based on company's SETUP file
-    path = 'SETUPS/'+company+"_SETUP.txt"
+    path = "SETUPS/"+company+"_SETUP.txt"
     f = open(path,'r').read().splitlines()
 
     contents = []
@@ -134,7 +151,7 @@ def main():
         '''add extra function to grab files...
         ...from server host an rename before executing parser
         NO SPACES'''
-        csvFile = "testing.csv"
+        csvFile = "JRColeCSVFile_Final.csv"
         
         parse_CSV(company, contents, required, overflow, csvFile)
     
@@ -148,7 +165,7 @@ def main():
         overflow = contents.pop(0)
         sheet = contents.pop(0)
 
-        excelFile = 'testing.xlsx'
+        excelFile = "CheckFileExample.xlsx"
 
         excel_to_csv(company, contents, required, overflow, excelFile, sheet)
     
@@ -169,7 +186,7 @@ def main():
         elif delimiter == 'comma':
             delimiter = ','
 
-        textFile = 'testing.txt'
+        textFile = '_TBAPVirtualCreditCardPaymentExport.txt'
 
         txt_to_csv(company, contents, required, overflow, textFile, delimiter)
 
